@@ -1,0 +1,4 @@
+__pycache__
+.venv
+.env
+weather_report.txt

@@ -1,0 +1,10 @@
+Suma numerelor de la 1 la 100
+Afisarea primelor 20 de numere impare
+Cel mai mare divizor comun pentru 2 numere citite de la tastatura
+Afisati daca un numar citit de la tastatura este prim
+Afisati suma si media unei liste de numere citite de la tastatura
+Se citesc 3 numere de la tastatura, verificati daca acestea pot reprezenta unghiurile unui triunghi
+Sortati o lista de elemente citite de la tastatura, folosind orice metoda de sortare doriti (nu functia sort)
+Scrieti un program care afiseaza ziua saptamanii pentru un numar citit de la tastatura (de la 1 la 7) unde  1=luni , 7 = duminica
+Afisati maximul dintr-un vector de elemente citit de la tastatura
+Rezolvati ecuatia de gradul al doilea
